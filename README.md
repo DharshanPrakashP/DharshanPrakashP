@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshanprakash)
-## 🌐 Profile Views:
+## 🙋🏼‍♂️ Profile Views:
 [![](https://visitcount.itsvg.in/api?id=DharshanPrakashP&icon=4&color=12)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
