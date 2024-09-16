@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DharshanPrakashP&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DharshanPrakashP&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanPrakashP&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
