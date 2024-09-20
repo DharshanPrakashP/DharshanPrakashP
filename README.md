@@ -2,6 +2,7 @@
 🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>📱Passion for developing Mobile Apps.<br>🤖Artificial Intelligence enthusiast.<br>🌐Cloud Engineer, App Developer.<br>  <br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshanprakash)
 ## 🙋🏼‍♂️ Profile Views:
