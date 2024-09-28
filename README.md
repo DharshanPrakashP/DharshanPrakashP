@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>📱Passion for developing Mobile Apps.<br>🤖Artificial Intelligence enthusiast.<br>🌐Cloud Engineer, App Developer.<br>  <br>
+🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>📱Passion for developing Mobile Apps.<br>🤖Artificial Intelligence enthusiast.<br>🌐Cloud Engineer, App Developer, Devops.<br>  <br>
 
 
 
