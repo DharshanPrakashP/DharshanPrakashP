@@ -25,4 +25,6 @@
 
 ---
 
+![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
