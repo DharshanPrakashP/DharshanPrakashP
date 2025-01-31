@@ -24,8 +24,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" height="5" width="100%">
 
 ![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
