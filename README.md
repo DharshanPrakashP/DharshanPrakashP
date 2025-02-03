@@ -25,7 +25,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 ![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
+<br/>
+# PortFolio Stats:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e09c9ce-210b-41ba-900b-ac504c75caae/deploy-status)](https://app.netlify.com/sites/dharshanprakash/deploys)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
