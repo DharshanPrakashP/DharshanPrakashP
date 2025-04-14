@@ -30,7 +30,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact)
 <br/>
 
 <div align="center">
@@ -54,8 +54,17 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 <br/>
 
-# PortFolio Stats
+<!-- # PortFolio Stats
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1e09c9ce-210b-41ba-900b-ac504c75caae/deploy-status)](https://app.netlify.com/sites/dharshanprakash/deploys)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/1e09c9ce-210b-41ba-900b-ac504c75caae/deploy-status)](https://app.netlify.com/sites/dharshanprakash/deploys)
+-->
+## 🎓 Postman API Fundamentals Student Expert
+
+<a href="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ">
+  <img src="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ/image" alt="Postman Badge" width="150"/>
+</a>
+
+**Awarded:** April 14, 2025  
+[🔗 Verify Badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FZ88v8ZBuSO-xtHLqObJ9KQ%3Fidentity__email%3Ddharshanprakasherode%2540gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
