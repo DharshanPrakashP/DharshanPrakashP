@@ -58,7 +58,7 @@
 
  [![Netlify Status](https://api.netlify.com/api/v1/badges/1e09c9ce-210b-41ba-900b-ac504c75caae/deploy-status)](https://app.netlify.com/sites/dharshanprakash/deploys)
 -->
-## 🎓 Postman API Fundamentals Student Expert
+<!--## 🎓 Postman API Fundamentals Student Expert
 
 <a href="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ">
   <img src="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ/image" alt="Postman Badge" width="150"/>
