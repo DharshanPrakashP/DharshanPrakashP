@@ -1,13 +1,23 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-# 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>📱Passion for developing Mobile Apps.<br>🤖Artificial Intelligence enthusiast.<br>
-    🌐Cloud Engineer, App Developer, Devops.<br> 
+<p align="center">
+🎓 B.Tech Student at Kongu Engineering College<br>
+📱 Passionate Mobile App Developer<br>
+🤖 AI Enthusiast & Explorer<br>
+🌐 Cloud Engineer | DevOps Practitioner | App Builder<br>
+</p>
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshanprakash)
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dharshanprakash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+    
 
 # 💻 Tech Stack
 
