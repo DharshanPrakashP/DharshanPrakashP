@@ -5,7 +5,7 @@
 <p align="center">
 🎓 B.Tech Student @ Kongu Engineering College<br>
 📱 Passionate Mobile App Developer<br>
-☁️ DevOps Engineer Intern @Edsols Innovations
+☁️ DevOps Engineer Intern @Edsols Innovations <br>
 🌐 Cloud Engineer | DevOps Practitioner | App Builder<br>
 </p>
 
