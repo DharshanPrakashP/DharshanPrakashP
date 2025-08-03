@@ -3,9 +3,9 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-🎓 B.Tech Student at Kongu Engineering College<br>
+🎓 B.Tech Student @ Kongu Engineering College<br>
 📱 Passionate Mobile App Developer<br>
-🤖 AI Enthusiast & Explorer<br>
+☁️ DevOps Engineer Intern @ Edsols Innovations
 🌐 Cloud Engineer | DevOps Practitioner | App Builder<br>
 </p>
 
