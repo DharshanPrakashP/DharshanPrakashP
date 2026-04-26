@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: DharshanPrakash
+          github_user_name: DharshanPrakashP
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
