@@ -18,7 +18,7 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 - ☁️ Managing multi-tenant **FastAPI** SaaS across 5 environments (dev → prod)
 - 🌱 Targeting **DevOps / SRE / Platform Engineering** roles at product companies & MNCs
 - 📫 Reach me at **dharshanprakasherode@gmail.com**
-- 🌐 Portfolio: **[dharshanprakash.me](https://dharshanprakash.me)**
+- 🌐 Portfolio: **[dharshanprakash.netlify.app](https://dharshanprakash.netlify.app)**
 
 <br clear="right"/>
 
