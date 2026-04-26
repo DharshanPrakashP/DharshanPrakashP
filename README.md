@@ -91,7 +91,7 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 ---
 
-### 🐾 Contribution Snake
+### 🐾 Contribution's
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph-dark.svg">
