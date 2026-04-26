@@ -3,7 +3,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  ☁️ DevOps Engineer Intern @Edsols Innovations <br>
+  ☁️ DevOps Engineer @Edsols Innovations <br>
 <!-- 🎓 B.Tech Student @ Kongu Engineering College<br> -->
 📱 Passionate Mobile App Developer<br>
 🌐 Cloud Engineer | DevOps Practitioner | App Builder<br>
