@@ -1,120 +1,117 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-  ☁️ DevOps Engineer @Edsols Innovations <br>
-<!-- 🎓 B.Tech Student @ Kongu Engineering College<br> -->
-📱 Passionate Mobile App Developer<br>
-🌐 Cloud Engineer | DevOps Practitioner | App Builder<br>
-</p>
-
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/dharshanprakashpp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-    
-
-<h1 align = "center"> 💻 Tech Stack</h1>
-<h2 align="center">Programming Languages</h2>
-<p align="center">
-  <a><img src="https://skillicons.dev/icons?i=python,java,c,dart" /></a>
-</p>
-
-
-<h2 align="center">Cloud</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=aws,firebase" /></a>
-</p>
-
-<h2 align="center">DevOps</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,kubernetes,docker,grafana,prometheus" /></a>
-</p>
-
-<h2 align="center">Frontend</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=html,css,react,flutter" /></a>
-</p>
-
-<h2 align="center">Backend</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=nodejs,express,flask" /></a>
-</p>
-
-<h2 align="center">Database</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></a>
-</p>
-
-<h2 align="center">Others</h2>
-<p align = "center">
-  <a><img src="https://skillicons.dev/icons?i=linux,vscode,figma,blender" /></a>
-</p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
-
 <div align="center">
 
-# 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharshan%20Prakash&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20SRE&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
-
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DharshanPrakashP&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />  |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DharshanPrakashP&heme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff) |
-|---------|---------|
 </div>
 
+---
 
+<!-- <img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" /> -->
 
+### 👋 Hey, I'm Dharshan
 
+DevOps Engineer building and scaling production cloud infrastructure on AWS. Currently at **Edsols Innovations**, where I led the migration of a production SaaS platform from monolithic EC2 to a serverless containerized Lambda architecture.
 
+- 🚀 Deployed production **AWS Lambda** functions with Python 3.11 container images via ECR
+- 🔭 Built path-based **CircleCI pipelines** for selective Lambda deployments using Terraform
+- 📡 Set up full observability stack with **SigNoz + OpenTelemetry**
+- ☁️ Managing multi-tenant **FastAPI** SaaS across 5 environments (dev → prod)
+- 🌱 Targeting **DevOps / SRE / Platform Engineering** roles at product companies & MNCs
+- 📫 Reach me at **dharshanprakasherode@gmail.com**
+- 🌐 Portfolio: **[dharshanprakash.me](https://dharshanprakash.me)**
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact)
-<br/>
+<br clear="right"/>
+
+---
+
+### 🔗 Connect
+
+<p>
+  <a href="https://linkedin.com/in/dharshanprakashpp">
+    <img src="https://img.shields.io/badge/LinkedIn-Dharshan%20Prakash-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dharshanprakasherode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dharshanprakasherode-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dharshanprakash.me">
+    <img src="https://img.shields.io/badge/Portfolio-dharshanprakash.me-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/DharshanPrakashP">
+    <img src="https://img.shields.io/badge/GitHub-DharshanPrakashP-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes" />
+</p>
+
+**CI/CD & Observability**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white&height=48" height="48"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white&height=48" height="48"/>
+</p>
+
+**Languages & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,nodejs,dart" />
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,linux,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-|  <div align="center" ><h3>🎖️ **LeetCode Stats** |
-|---------|
-|![LeetCode Stats](https://leetcard.jacoblin.cool/DharshanPrakash?theme=dark&font=Baloo%202&ext=heatmap)
+| Stats | Streak |
+|-------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharshanPrakashP&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0f2027,2c5364&title_color=a0c4ff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DharshanPrakashP&theme=nightowl&background=0,0f2027,2c5364&fire=a0c4ff&ring=a0c4ff&sideNums=ffffff&sideLabels=ffffff&dates=a0c4ff&currStreakNum=ffffff) |
 
-</div>     
+</div>
 
+---
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
+### 📈 Contribution Activity
 
-<!--# ✍️ Random Dev Quote
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact&bg_color=0f2027&color=a0c4ff&line=2c5364&point=ffffff)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
--->
+---
 
-
-## My Contribution Graph
+### 🐾 Contribution Snake
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg" />
 </picture>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
-<br/>
 
-<!-- # PortFolio Stats
+---
 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/1e09c9ce-210b-41ba-900b-ac504c75caae/deploy-status)](https://app.netlify.com/sites/dharshanprakash/deploys)
--->
-<!--## 🎓 Postman API Fundamentals Student Expert
+### 🏆 Highlights
 
-<a href="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ">
-  <img src="https://api.badgr.io/public/assertions/Z88v8ZBuSO-xtHLqObJ9KQ/image" alt="Postman Badge" width="150"/>
-</a>
+- 🥈 **2nd Place** — KEC CSD Coding Club Hackathon 2025 *(Built KEC Study Hub, adopted college-wide)*
+- 🏆 **Winner** — App Development Contest, MADC Club @ KEC 2023
+- 📄 **Published** — Coconut Leaf Disease Prediction | Optimizing Serverless Computing
+- 🎓 **Certified** — GitHub Foundations | Oracle Cloud Infrastructure | MongoDB Associate Developer | Postman API Expert
 
-**Awarded:** April 14, 2025  
-[🔗 Verify Badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FZ88v8ZBuSO-xtHLqObJ9KQ%3Fidentity__email%3Ddharshanprakasherode%2540gmail.com)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+</div>
