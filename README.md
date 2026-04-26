@@ -13,7 +13,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dharshanprakash" target="_blank">
+  <a href="https://linkedin.com/in/dharshanprakashpp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
