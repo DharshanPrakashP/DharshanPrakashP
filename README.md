@@ -94,7 +94,7 @@
 -->
 
 
-![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
+![pacman](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/pacman-contribution-graph.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 <br/>
 
