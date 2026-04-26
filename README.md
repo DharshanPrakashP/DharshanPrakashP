@@ -33,8 +33,8 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
   <a href="mailto:dharshanprakasherode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dharshanprakasherode-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dharshanprakash.me">
-    <img src="https://img.shields.io/badge/Portfolio-dharshanprakash.me-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://dharshanprakash.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-dharshanprakash.netlify.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/DharshanPrakashP">
     <img src="https://img.shields.io/badge/GitHub-DharshanPrakashP-%23181717?style=for-the-badge&logo=github&logoColor=white" />
