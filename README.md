@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharshan%20Prakash&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20SRE&descAlignY=58&descSize=18&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2b00,50:8a6d00,100:ffd700&height=200&section=header&text=Dharshan%20Prakash&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20SRE&descAlignY=58&descSize=18&descColor=ffe9a8" />
 
 </div>
 
 ---
-
-<!-- <img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" /> -->
 
 ### 👋 Hey, I'm Dharshan
 
@@ -28,16 +26,16 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 <p>
   <a href="https://linkedin.com/in/dharshanprakashpp">
-    <img src="https://img.shields.io/badge/LinkedIn-Dharshan%20Prakash-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dharshan%20Prakash-FFD700?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
   </a>
   <a href="mailto:dharshanprakasherode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dharshanprakasherode-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dharshanprakasherode-FFD700?style=for-the-badge&logo=gmail&logoColor=1a1a1a" />
   </a>
   <a href="https://dharshanprakash.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-dharshanprakash.netlify.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-dharshanprakash.netlify.app-FFD700?style=for-the-badge&logo=vercel&logoColor=1a1a1a" />
   </a>
   <a href="https://github.com/DharshanPrakashP">
-    <img src="https://img.shields.io/badge/GitHub-DharshanPrakashP-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DharshanPrakashP-FFD700?style=for-the-badge&logo=github&logoColor=1a1a1a" />
   </a>
 </p>
 
@@ -55,8 +53,8 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white&height=48" height="48"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white&height=48" height="48"/>
+  <img src="https://img.shields.io/badge/CircleCI-FFD700?style=flat-square&logo=circleci&logoColor=1a1a1a&height=48" height="48"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-FFD700?style=flat-square&logo=opentelemetry&logoColor=1a1a1a&height=48" height="48"/>
 </p>
 
 **Languages & Backend**
@@ -79,7 +77,7 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 | Stats | Streak |
 |-------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharshanPrakashP&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0f2027,2c5364&title_color=a0c4ff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DharshanPrakashP&theme=nightowl&background=0,0f2027,2c5364&fire=a0c4ff&ring=a0c4ff&sideNums=ffffff&sideLabels=ffffff&dates=a0c4ff&currStreakNum=ffffff) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharshanPrakashP&count_private=true&show_icons=true&theme=nightowl&bg_color=0,3d2b00,8a6d00&title_color=ffd700&text_color=ffe9a8&icon_color=ffd700&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DharshanPrakashP&theme=nightowl&background=0,3d2b00,8a6d00&fire=ffd700&ring=ffd700&sideNums=ffe9a8&sideLabels=ffe9a8&dates=ffe9a8&currStreakNum=ffffff) |
 
 </div>
 
@@ -87,7 +85,7 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 ### 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact&bg_color=0f2027&color=a0c4ff&line=2c5364&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPrakashP&theme=github-compact&bg_color=3d2b00&color=ffd700&line=ffb800&point=ffffff)
 
 ---
 
@@ -112,6 +110,6 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:8a6d00,100:3d2b00&height=120&section=footer" />
 
 </div>
