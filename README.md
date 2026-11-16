@@ -91,11 +91,11 @@ DevOps Engineer building and scaling production cloud infrastructure on AWS. Cur
 
 ### 🐾 Contribution's
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg">
   <img alt="contribution graph" src="https://raw.githubusercontent.com/DharshanPrakashP/DharshanPrakashP/output/pacman-contribution-graph.svg" />
-</picture>
+</picture> -->
 
 ---
 
